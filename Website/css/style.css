@@ -1375,4 +1375,10 @@ p {
   padding-bottom: 40px;
 }
 
+.vert-center {
+  position: relative;
+  margin-top: 50%;
+  transform: translateY(-50%);
+}
+
 /*# sourceMappingURL=style.css.map */
