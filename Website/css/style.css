@@ -681,6 +681,7 @@ p {
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half {
   width: 50%;
+  height:400px;
   text-align: center;
   position: relative;
   display: -webkit-box;
@@ -715,7 +716,8 @@ p {
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-v-col-2 {
   width: 50%;
-  padding: 20px;
+  border: 2px;
+  border-color: yellow;
   position: relative;
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-v-col-2.fh5co-bg-img {
