@@ -715,7 +715,7 @@ p {
   }
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-v-col-2 {
-  width: 50%;
+  width: 100%;
   border: 2px;
   border-color: yellow;
   position: relative;
