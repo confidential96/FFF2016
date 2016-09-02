@@ -203,7 +203,7 @@ p {
  * Flexslider
  */
 #fh5co-home {
-  min-height: 700px;
+  min-height: 666px;
   background: #fff url(../images/loader.gif) no-repeat center center;
 }
 #fh5co-home .flexslider {
@@ -319,7 +319,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a,
 .fh5co-main-nav .fh5co-menu-2 a,
 .fh5co-main-nav .fh5co-logo a {
-  padding: 35px 40px;
+  padding: 50px 40px;
   color: #130d08;
   display: -moz-inline-stack;
   display: inline-block;
@@ -361,8 +361,9 @@ p {
 }
 .fh5co-main-nav .fh5co-logo a {
   position: relative;
-  top: -5px;
+  top: 0px;
   display: inline-block;
+  padding: 0px;
 }
 .fh5co-main-nav .fh5co-menu-2 {
   text-align: left;
@@ -748,9 +749,9 @@ p {
   -moz-flex-wrap: wrap;
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-h-row-2 > .fh5co-v-col-2 {
-  width: 50%;
+  width: 100%;
   position: relative;
-  padding: 20px;
+  padding: 0px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-h-row-2 > .fh5co-v-col-2 {
