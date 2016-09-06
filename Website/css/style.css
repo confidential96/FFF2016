@@ -1005,7 +1005,7 @@ p {
 }
 
 #fh5co-contact {
-  padding: 7em 0;
+  padding: 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-contact {
@@ -1383,4 +1383,7 @@ p {
   transform: translateY(-50%);
 }
 
+@media only screen and (max-device-width: 2560px) {
+
+}
 /*# sourceMappingURL=style.css.map */
