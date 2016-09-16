@@ -1383,7 +1383,36 @@ p {
   transform: translateY(-50%);
 }
 
-@media only screen and (max-device-width: 2560px) {
+.chinup{
+  margin-top:170px;
+}
 
+.specialimg{}
+
+.SCDLogo{
+  width:100%;
+}
+
+.IVLogo{
+
+}
+
+@media only screen and (max-device-width: 992px) {
+  #fh5co-home {
+    height:100%;
+    margin-bottom:0px;
+  }
+  .chinup{
+  margin-top:0px;
+  }
+  .specialimg{
+    width:50%;
+  }
+  .SCDLogo{
+    width:100%;
+  }
+  .IVLogo{
+   width:100%;
+  }
 }
 /*# sourceMappingURL=style.css.map */
